@@ -4,7 +4,7 @@ agent any
 stages {
 stage("build") {
 steps {
- echo 'building the app'
+ echo 'building the app 2'
 }
 }
 
